@@ -16,8 +16,4 @@
 ## Live Demo
 Check out the live version of the app at: [CryptoFreak](https://cryptofreak.netlify.app/)
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/cryptofreak.git
