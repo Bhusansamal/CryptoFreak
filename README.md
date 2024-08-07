@@ -19,4 +19,7 @@
 Check out the live version of the app at: [CryptoFreak](https://cryptofreak.netlify.app/)
 
 
+![Screenshot (27)](https://github.com/user-attachments/assets/b8e3fb45-927f-44bc-9142-14dc3b4ab65b)
 
+![Screenshot (28)](https://github.com/user-attachments/assets/50a99ca1-e072-4040-9a0d-610a8bba4664)
+![Screenshot (29)](https://github.com/user-attachments/assets/f5d8cb1f-e5ca-4250-9853-a48c354fd2fc)
